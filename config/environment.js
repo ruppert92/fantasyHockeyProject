@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'my-new-app',
+    modulePrefix: 'fantasy-hockey-app',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

@@ -1,7 +1,7 @@
 {
-  "name": "my-new-app",
+  "name": "fantasy-hockey-app",
   "version": "0.0.0",
-  "description": "Small description for my-new-app goes here",
+  "description": "Small description for fantasy-hockey-app goes here",
   "private": true,
   "directories": {
     "doc": "doc",
